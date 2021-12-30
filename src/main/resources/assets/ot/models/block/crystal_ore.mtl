@@ -1,0 +1,11 @@
+newmtl stone # Test
+ambient_occlusion true # test 2
+uvlock true # test 3
+texture minecraft:block/stone # test 4
+
+newmtl crystals
+ambient_occlusion true
+texture minecraft:block/diamond_block
+
+newmtl sprite
+texture minecraft:block/stone # test 4

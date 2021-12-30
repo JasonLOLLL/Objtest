@@ -1,0 +1,8 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl sprite
+map_Kd ot:block/mutant
+
+newmtl mutant_M.001
+map_Kd ot:block/mutant

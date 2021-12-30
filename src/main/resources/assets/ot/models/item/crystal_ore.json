@@ -1,0 +1,5 @@
+{
+  "parent": "minecraft:block/block",
+  "model": "ot:block/crystal_ore_item",
+  "gui_light": "side"
+}
